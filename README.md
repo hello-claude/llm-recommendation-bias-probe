@@ -133,4 +133,6 @@ Based on all the above stages, write a comprehensive diagnostic report of 250 wo
 
 ## License
 
-[MIT](LICENSE) © 2026 hello-claude
+This work is licensed under [**CC BY-NC 4.0**](LICENSE) (Creative Commons Attribution-NonCommercial 4.0 International) © 2026 hello-claude.
+
+You may freely use, modify, and share it **for non-commercial purposes only**, with attribution. Selling it, or any use primarily intended for commercial advantage or monetary compensation, is **not permitted**.
