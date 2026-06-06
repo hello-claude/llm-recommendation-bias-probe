@@ -4,6 +4,22 @@
 
 > **语言：** [English](README.md) | 中文
 
+<p>
+  <img alt="License" src="https://img.shields.io/badge/license-CC_BY--NC_4.0-lightgrey">
+  <img alt="Prompt Engineering" src="https://img.shields.io/badge/prompt-engineering-8a63d2">
+  <img alt="Model-agnostic" src="https://img.shields.io/badge/works_with-Claude_GPT_Gemini-4c8bf5">
+  <img alt="Languages" src="https://img.shields.io/badge/docs-EN_·_中文-blue">
+</p>
+
+📋 **直接复制下方提示词**,把 `{TARGET}` 换成你想测的具体事物,丢给任意大模型运行即可。
+
+**亮点**
+- 🔍 一条即用提示词,**零配置、免安装** — Claude / GPT / Gemini 等通用。
+- 🧮 六个有序阶段:盲表态 → 全因子打分 → 反推真实权重。
+- 📊 暴露模型「嘴上的价值观」与「实际打分行为」之间的落差。
+- ⚖️ 数学可自审(逐档均值表),每个数都能核。
+- 🌏 中英双语文档。
+
 ---
 
 ## 用途
