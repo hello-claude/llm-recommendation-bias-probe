@@ -4,6 +4,22 @@ A single prompt that makes a large language model run a structured self-audit of
 
 > **Languages:** English | [中文](README.zh-CN.md)
 
+<p>
+  <img alt="License" src="https://img.shields.io/badge/license-CC_BY--NC_4.0-lightgrey">
+  <img alt="Prompt Engineering" src="https://img.shields.io/badge/prompt-engineering-8a63d2">
+  <img alt="Model-agnostic" src="https://img.shields.io/badge/works_with-Claude_GPT_Gemini-4c8bf5">
+  <img alt="Languages" src="https://img.shields.io/badge/docs-EN_·_中文-blue">
+</p>
+
+📋 **[Jump to the prompt →](#the-prompt)** — copy it, replace `{TARGET}`, run it on any model.
+
+**Highlights**
+- 🔍 One drop-in prompt; **no setup, no install** — works on Claude, GPT, Gemini, etc.
+- 🧮 Six ordered stages: blind stance → full factorial scoring → back-calculated actual weights.
+- 📊 Surfaces the gap between a model's *stated* values and its *actual* scoring behavior.
+- ⚖️ Self-auditable math (per-level mean tables) so you can check every number.
+- 🌏 Bilingual docs (English / 中文).
+
 ---
 
 ## What it does
